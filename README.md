@@ -24,7 +24,7 @@ Currently, I am expanding my expertise into **Full Stack Development** (Next.js/
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
-**Enterprise Frameworks & Tools (Professional Exp.)**
+**Enterprise Frameworks & Tools (Hands-on Experience)**
 <br>
 <img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
 <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
@@ -56,19 +56,6 @@ Currently, I am expanding my expertise into **Full Stack Development** (Next.js/
 * **Smart Compliance System (ERP Document Management):** Digitized complex risk assessment workflows using **Python (Frappe)** and Jinja2, improving data accuracy and centralizing processes.
 
 ---
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/DemolishCode">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DemolishCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemolishCode&layout=compact&theme=tokyonight" />
-</a>
-
-</div>
-
-<br>
 
 <h3 align="left">📫 Let's Connect</h3>
 <p align="left">
