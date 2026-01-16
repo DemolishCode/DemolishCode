@@ -62,8 +62,8 @@ Currently, I am expanding my expertise into **Full Stack Development** (Next.js/
 ### 📊 GitHub Stats
 
 <a href="https://github.com/DemolishCode">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DemolishCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemolishCode&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DemolishCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemolishCode&layout=compact&theme=tokyonight" />
 </a>
 
 </div>
