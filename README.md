@@ -1,110 +1,78 @@
 ## Hi there, I'm Nantawat (Yai) 👋
 
-### 🚀 Backend Developer transitioning to Full Stack | AI-Driven Enthusiast
+### 👨‍💻 Software Engineer | Backend Specialist & AI Enthusiast
 
-I am a software engineer with **3 years of experience** building scalable APIs and systems at **SCG (The Siam Cement Group)**. Originally a Backend specialist, I am currently expanding my expertise into Full Stack development with **Next.js** and **TypeScript**, leveraging **AI-driven workflows** to accelerate delivery.
+I am a Developer with **3 years of hands-on experience** building scalable systems and APIs at **SCG (The Siam Cement Group)** via Persolkelly. I specialize in **Backend Development** and System Architecture, with a proven track record in ERP and E-commerce solutions.
 
-- 💼 **Previously:** Associate Technology Developer at SCG (via Persolkelly)
-- 🔭 **I’m currently focusing on:** Next.js, TypeScript, and AI-Assisted Coding
-- 💡 **I’m interested in:** Building high-impact AI products & System Optimization
+Currently, I am expanding my expertise into **Full Stack Development** (Next.js/TypeScript) and exploring **DevOps & AI Engineering** to build more efficient and intelligent software solutions.
+
+- 💼 **Experience:** 3 Years at SCG (Internal Learning Platform, ERP, E-commerce)
+- 🛠️ **Core Stack:** Node.js, Python, PHP, Docker, PostgreSQL
+- 🔭 **Current Focus:** Next.js, System Scalability, and AI-Driven Workflows
 - 📍 **Location:** Nan, Thailand (Ready to relocate to Bangkok immediately 🏙️)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="icon" width="65" height="65" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="icon" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="icon" width="65" height="65" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/836974?s=200&v=4" alt="icon" width="65" height="65" />
-      <br>Frappe
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="icon" width="65" height="65" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="65" height="65" />
-      <br>MariaDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/000000/strapi.png" alt="icon" width="65" height="65" />
-      <br>Strapi
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" alt="icon" width="65" height="65" />
-      <br>Magento
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="icon" width="65" height="65" />
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-### 🤖 AI & Productivity
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-TOP_SKILL?style=for-the-badge&color=blue" />
-</p>
-
+**Backend & Database (Core Proficiency)**
 <br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+**DevOps, AI & Tools**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Driven_Dev-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+
+**Frontend & Frameworks (Upskilling)**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
+<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
+
+---
+
+### 🎯 Areas of Interest & Growth
+
+* **☁️ DevOps Culture:** Integrating **Docker** and basic CI/CD pipelines to bridge the gap between development and operations.
+* **🤖 AI Engineering:** Leveraging **LLMs (Claude, Gemini, ChatGPT)** for code refactoring, rapid prototyping, and exploring AI integration in web apps.
+* **💾 Data Engineering:** Enthusiastic about designing **scalable database schemas** and optimizing data flow for high-performance applications.
+
+---
+
+### 🚀 Featured Projects (Highlights)
+
+* **Internal Learning Platform (Dociety):** Built scalable APIs using **Node.js (Strapi)** and GraphQL for a corporate learning system. Optimized data schemas with PostgreSQL.
+* **ERP Document Management:** Digitized complex risk assessment workflows using **Python (Frappe)** and Jinja2, improving data accuracy and centralizing processes.
+* **E-commerce Backend (DoozyOnline):** Maintained a high-traffic e-commerce system using **PHP (Magento)**, ensuring high availability and resolving critical production issues.
+
+---
 
 <div align="center">
 
 ### 📊 GitHub Stats
 
 <a href="https://github.com/MrQuartzer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrQuartzer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuartzer&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MrQuartzer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuartzer&layout=compact&theme=tokyonight"/>
 </a>
 
 </div>
 
 <br>
 
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">📫 Let's Connect</h3>
 <p align="left">
-  </p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
