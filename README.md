@@ -74,5 +74,5 @@ Currently, I am expanding my expertise into **Full Stack Development** (Next.js/
 <h3 align="left">📫 Let's Connect</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nantawat_yai@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
