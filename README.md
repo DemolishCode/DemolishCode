@@ -51,9 +51,9 @@ Currently, I am expanding my expertise into **Full Stack Development** (Next.js/
 
 ### 🚀 Featured Projects (Highlights)
 
-* **Internal Learning Platform (Dociety):** Built scalable APIs using **Node.js (Strapi)** and GraphQL for a corporate learning system. Optimized data schemas with PostgreSQL.
-* **ERP Document Management:** Digitized complex risk assessment workflows using **Python (Frappe)** and Jinja2, improving data accuracy and centralizing processes.
-* **E-commerce Backend (DoozyOnline):** Maintained a high-traffic e-commerce system using **PHP (Magento)**, ensuring high availability and resolving critical production issues.
+* **Dociety (Internal Learning Platform):** Built scalable APIs using **Node.js (Strapi)** and GraphQL for a corporate learning system. Optimized data schemas with PostgreSQL.
+* **DoozyOnline (E-commerce Backend):** Maintained a high-traffic e-commerce system using **PHP (Magento)**, ensuring high availability and resolving critical production issues.
+* **Smart Compliance System (ERP Document Management):** Digitized complex risk assessment workflows using **Python (Frappe)** and Jinja2, improving data accuracy and centralizing processes.
 
 ---
 
