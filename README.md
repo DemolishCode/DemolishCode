@@ -1,15 +1,14 @@
 ## Hi there, I'm Nantawat (Yai) 👋
 
-### 👨‍💻 Software Engineer | Backend Specialist & AI Enthusiast
+### 👨‍💻 Software Engineer | Backend & AI Enthusiast
 
-I am a Developer with **3 years of hands-on experience** building scalable systems and APIs at **SCG (The Siam Cement Group)** via Persolkelly. I specialize in **Backend Development** and System Architecture, with a proven track record in ERP and E-commerce solutions.
+I am a Developer with **3 years of hands-on experience** building scalable systems and APIs at **SCG (The Siam Cement Group)** via Persolkelly. I experience in **Backend Development** and System Architecture, with a proven track record in ERP and E-commerce solutions.
 
 Currently, I am expanding my expertise into **Full Stack Development** (Next.js/TypeScript) and exploring **DevOps & AI Engineering** to build more efficient and intelligent software solutions.
 
 - 💼 **Experience:** 3 Years at SCG (Internal Learning Platform, ERP, E-commerce)
 - 🛠️ **Core Stack:** Node.js, Python, PHP, Docker, PostgreSQL
 - 🔭 **Current Focus:** Next.js, System Scalability, and AI-Driven Workflows
-- 📍 **Location:** Nan, Thailand (Ready to relocate to Bangkok immediately 🏙️)
 
 ---
 
