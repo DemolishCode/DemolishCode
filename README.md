@@ -44,7 +44,6 @@ Currently, I am expanding my expertise into **Full Stack Development** (Next.js/
 
 * **☁️ DevOps Culture:** Integrating **Docker** and basic CI/CD pipelines to bridge the gap between development and operations.
 * **🤖 AI Engineering:** Leveraging **LLMs (Claude, Gemini, ChatGPT)** for code refactoring, rapid prototyping, and exploring AI integration in web apps.
-* **💾 Data Engineering:** Enthusiastic about designing **scalable database schemas** and optimizing data flow for high-performance applications.
 
 ---
 
